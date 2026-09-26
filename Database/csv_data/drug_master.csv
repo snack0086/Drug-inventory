@@ -1,0 +1,51 @@
+id,drug_code,brand_name,generic_name,category,uom,dosage_form,strength,storage_condition,criticality,unit_cost,min_stock_threshold,target_stock_level,reorder_level,is_active
+81cfce7a-db8c-41bc-8a00-27f2cd737bf8,DRG-0001,Atropine Inj #1,Atropine Sulphate Gen-1,Emergency/Antidote,ampoule,Injection,1mg/ml,COLD_CHAIN,VITAL,18.5,100,800,150,True
+08cf44a2-7843-40db-8be5-b7ec90054e44,DRG-0002,Monocef 1g #2,Ceftriaxone Sodium Gen-2,Antibiotic,vial,Injection,1g,AMBIENT,ESSENTIAL,45.0,100,800,150,True
+74970ff4-2a08-4f93-a3e3-06c395e7cc5d,DRG-0003,Human Actrapid #3,Regular Insulin Gen-3,Endocrine/Diabetes,vial,Injection,100 IU/ml,COLD_CHAIN,VITAL,165.0,500,4000,750,True
+7c2d76e0-6fbe-4bf9-9480-1926f496b863,DRG-0004,Dolo 650 #4,Paracetamol Gen-4,Analgesic,tablet,Tablet,650mg,AMBIENT,DESIRABLE,1.8,200,1600,300,True
+d3c01138-9905-4d76-bf2b-64490842f674,DRG-0005,Vasocon 1mg #5,Adrenaline Gen-5,Emergency,ampoule,Injection,1mg/ml,COLD_CHAIN,VITAL,24.0,200,1600,300,True
+bf864bc6-3ff9-40df-b3ba-15a657cad795,DRG-0006,Augmentin 625 #6,Amoxicillin + Clav Gen-6,Antibiotic,tablet,Tablet,625mg,AMBIENT,ESSENTIAL,22.0,200,1600,300,True
+ab85addb-363b-44a6-a129-ab0844ddb444,DRG-0007,Glycomet 500 #7,Metformin HCl Gen-7,Endocrine,tablet,Tablet,500mg,AMBIENT,ESSENTIAL,3.5,200,1600,300,True
+ff13e030-b20f-4e3a-9b03-107ad34e60e2,DRG-0008,Emeset 4mg #8,Ondansetron Gen-8,Antiemetic,ampoule,Injection,2mg/ml,AMBIENT,DESIRABLE,12.0,500,4000,750,True
+ed3ad51d-dc53-4e58-9e93-f83383f3d25f,DRG-0009,Pan 40 #9,Pantoprazole Gen-9,Gastrointestinal,vial,Injection,40mg,AMBIENT,ESSENTIAL,38.0,100,800,150,True
+4181b429-be0e-4aa8-86ff-43647a0bf2c0,DRG-0010,Hep 5000 IU #10,Heparin Sodium Gen-10,Anticoagulant,vial,Injection,5000 IU/ml,COLD_CHAIN,VITAL,120.0,100,800,150,True
+f8c19e25-ad28-4436-9696-19e32b3df743,DRG-0011,Atropine Inj #11,Atropine Sulphate Gen-11,Emergency/Antidote,ampoule,Injection,1mg/ml,COLD_CHAIN,VITAL,18.5,200,1600,300,True
+ab7bb929-38ba-46f6-9e91-bf183d567069,DRG-0012,Monocef 1g #12,Ceftriaxone Sodium Gen-12,Antibiotic,vial,Injection,1g,AMBIENT,ESSENTIAL,45.0,500,4000,750,True
+480a6eaf-3d2f-41b3-9f9e-bc78c5014bdf,DRG-0013,Human Actrapid #13,Regular Insulin Gen-13,Endocrine/Diabetes,vial,Injection,100 IU/ml,COLD_CHAIN,VITAL,165.0,100,800,150,True
+94919613-9376-4475-98a4-f1b9f4d9830a,DRG-0014,Dolo 650 #14,Paracetamol Gen-14,Analgesic,tablet,Tablet,650mg,AMBIENT,DESIRABLE,1.8,200,1600,300,True
+b63d347c-6b83-4d04-bd6c-c7121f882ad8,DRG-0015,Vasocon 1mg #15,Adrenaline Gen-15,Emergency,ampoule,Injection,1mg/ml,COLD_CHAIN,VITAL,24.0,500,4000,750,True
+9803a437-fa88-4116-96d3-a2bfc7562817,DRG-0016,Augmentin 625 #16,Amoxicillin + Clav Gen-16,Antibiotic,tablet,Tablet,625mg,AMBIENT,ESSENTIAL,22.0,200,1600,300,True
+bc80d818-aa1f-4582-a1b9-e204cb5c6783,DRG-0017,Glycomet 500 #17,Metformin HCl Gen-17,Endocrine,tablet,Tablet,500mg,AMBIENT,ESSENTIAL,3.5,50,400,75,True
+6a712ccd-a3a0-4092-8093-e0519a4b9c05,DRG-0018,Emeset 4mg #18,Ondansetron Gen-18,Antiemetic,ampoule,Injection,2mg/ml,AMBIENT,DESIRABLE,12.0,100,800,150,True
+9a53231e-0e18-4d29-bdca-292c99ec84ba,DRG-0019,Pan 40 #19,Pantoprazole Gen-19,Gastrointestinal,vial,Injection,40mg,AMBIENT,ESSENTIAL,38.0,100,800,150,True
+0039f91e-39c5-486b-a312-c8b9c9dc9586,DRG-0020,Hep 5000 IU #20,Heparin Sodium Gen-20,Anticoagulant,vial,Injection,5000 IU/ml,COLD_CHAIN,VITAL,120.0,500,4000,750,True
+705ab241-d938-4ded-8eb5-490d149e246d,DRG-0021,Atropine Inj #21,Atropine Sulphate Gen-21,Emergency/Antidote,ampoule,Injection,1mg/ml,COLD_CHAIN,VITAL,18.5,50,400,75,True
+39ae9f0f-2ef6-46b0-a854-c066edf9f984,DRG-0022,Monocef 1g #22,Ceftriaxone Sodium Gen-22,Antibiotic,vial,Injection,1g,AMBIENT,ESSENTIAL,45.0,100,800,150,True
+fa5ffa93-f596-4eda-89a1-683228d89e75,DRG-0023,Human Actrapid #23,Regular Insulin Gen-23,Endocrine/Diabetes,vial,Injection,100 IU/ml,COLD_CHAIN,VITAL,165.0,100,800,150,True
+01784c47-9315-4127-9c05-27a071585e68,DRG-0024,Dolo 650 #24,Paracetamol Gen-24,Analgesic,tablet,Tablet,650mg,AMBIENT,DESIRABLE,1.8,500,4000,750,True
+66d7d7ef-9422-43f8-847b-fb99071897d8,DRG-0025,Vasocon 1mg #25,Adrenaline Gen-25,Emergency,ampoule,Injection,1mg/ml,COLD_CHAIN,VITAL,24.0,100,800,150,True
+f1813e98-4204-47e6-b9ba-d3aa93a3b684,DRG-0026,Augmentin 625 #26,Amoxicillin + Clav Gen-26,Antibiotic,tablet,Tablet,625mg,AMBIENT,ESSENTIAL,22.0,200,1600,300,True
+01cd046f-95fc-4dea-9678-599982917387,DRG-0027,Glycomet 500 #27,Metformin HCl Gen-27,Endocrine,tablet,Tablet,500mg,AMBIENT,ESSENTIAL,3.5,200,1600,300,True
+3605d6b5-0472-431a-ad3f-f0e4192961cd,DRG-0028,Emeset 4mg #28,Ondansetron Gen-28,Antiemetic,ampoule,Injection,2mg/ml,AMBIENT,DESIRABLE,12.0,500,4000,750,True
+036236bd-b018-4ef5-a638-51d9eb2cf63b,DRG-0029,Pan 40 #29,Pantoprazole Gen-29,Gastrointestinal,vial,Injection,40mg,AMBIENT,ESSENTIAL,38.0,50,400,75,True
+754d3a11-7747-40c8-af49-b24454d8d20a,DRG-0030,Hep 5000 IU #30,Heparin Sodium Gen-30,Anticoagulant,vial,Injection,5000 IU/ml,COLD_CHAIN,VITAL,120.0,500,4000,750,True
+2f34b1c3-52bf-4ce9-80d9-682a0debc38b,DRG-0031,Atropine Inj #31,Atropine Sulphate Gen-31,Emergency/Antidote,ampoule,Injection,1mg/ml,COLD_CHAIN,VITAL,18.5,200,1600,300,True
+08e8db94-8cfc-4dc3-869b-bb5af9bb9352,DRG-0032,Monocef 1g #32,Ceftriaxone Sodium Gen-32,Antibiotic,vial,Injection,1g,AMBIENT,ESSENTIAL,45.0,500,4000,750,True
+a34551bd-187b-46a8-bd4d-422c06eff0fa,DRG-0033,Human Actrapid #33,Regular Insulin Gen-33,Endocrine/Diabetes,vial,Injection,100 IU/ml,COLD_CHAIN,VITAL,165.0,500,4000,750,True
+19baefca-38b9-4018-b946-c0fbb67291da,DRG-0034,Dolo 650 #34,Paracetamol Gen-34,Analgesic,tablet,Tablet,650mg,AMBIENT,DESIRABLE,1.8,500,4000,750,True
+83dde075-4683-4421-9ba9-b7121ee53f2c,DRG-0035,Vasocon 1mg #35,Adrenaline Gen-35,Emergency,ampoule,Injection,1mg/ml,COLD_CHAIN,VITAL,24.0,200,1600,300,True
+f92518fb-fa48-4cf2-94bb-c069ca274908,DRG-0036,Augmentin 625 #36,Amoxicillin + Clav Gen-36,Antibiotic,tablet,Tablet,625mg,AMBIENT,ESSENTIAL,22.0,50,400,75,True
+5a109267-5c8d-4c13-a090-ae986b471434,DRG-0037,Glycomet 500 #37,Metformin HCl Gen-37,Endocrine,tablet,Tablet,500mg,AMBIENT,ESSENTIAL,3.5,200,1600,300,True
+3d2fd256-1a0b-403b-924e-136956338fc9,DRG-0038,Emeset 4mg #38,Ondansetron Gen-38,Antiemetic,ampoule,Injection,2mg/ml,AMBIENT,DESIRABLE,12.0,500,4000,750,True
+a03b95f0-c856-4224-8adb-482640830177,DRG-0039,Pan 40 #39,Pantoprazole Gen-39,Gastrointestinal,vial,Injection,40mg,AMBIENT,ESSENTIAL,38.0,50,400,75,True
+a2d9fd18-ea3e-44be-a0a7-f2014ccca209,DRG-0040,Hep 5000 IU #40,Heparin Sodium Gen-40,Anticoagulant,vial,Injection,5000 IU/ml,COLD_CHAIN,VITAL,120.0,500,4000,750,True
+75862a67-6db8-467f-957a-4670d12bd079,DRG-0041,Atropine Inj #41,Atropine Sulphate Gen-41,Emergency/Antidote,ampoule,Injection,1mg/ml,COLD_CHAIN,VITAL,18.5,100,800,150,True
+e22023e9-8202-4383-8ee0-91c81924708e,DRG-0042,Monocef 1g #42,Ceftriaxone Sodium Gen-42,Antibiotic,vial,Injection,1g,AMBIENT,ESSENTIAL,45.0,100,800,150,True
+1431a613-e636-4c2a-a193-ef0a72950398,DRG-0043,Human Actrapid #43,Regular Insulin Gen-43,Endocrine/Diabetes,vial,Injection,100 IU/ml,COLD_CHAIN,VITAL,165.0,500,4000,750,True
+4e35a0b8-9c74-4aa1-a695-38bc52dd1836,DRG-0044,Dolo 650 #44,Paracetamol Gen-44,Analgesic,tablet,Tablet,650mg,AMBIENT,DESIRABLE,1.8,50,400,75,True
+c4172c0e-f6c5-43eb-b210-ef9094e4161c,DRG-0045,Vasocon 1mg #45,Adrenaline Gen-45,Emergency,ampoule,Injection,1mg/ml,COLD_CHAIN,VITAL,24.0,50,400,75,True
+3880ed68-64d7-4ea3-b3fe-a06cd7b187ae,DRG-0046,Augmentin 625 #46,Amoxicillin + Clav Gen-46,Antibiotic,tablet,Tablet,625mg,AMBIENT,ESSENTIAL,22.0,100,800,150,True
+a5f028f8-9ac3-4b8d-bc04-1f4d375d8aed,DRG-0047,Glycomet 500 #47,Metformin HCl Gen-47,Endocrine,tablet,Tablet,500mg,AMBIENT,ESSENTIAL,3.5,100,800,150,True
+fb73f467-53f4-42bb-bf03-6c83f2bdb1b7,DRG-0048,Emeset 4mg #48,Ondansetron Gen-48,Antiemetic,ampoule,Injection,2mg/ml,AMBIENT,DESIRABLE,12.0,200,1600,300,True
+e4cb721a-aafa-4591-a065-58465acd2f50,DRG-0049,Pan 40 #49,Pantoprazole Gen-49,Gastrointestinal,vial,Injection,40mg,AMBIENT,ESSENTIAL,38.0,100,800,150,True
+663bdb62-89c3-4a46-837f-dd4fba422a9f,DRG-0050,Hep 5000 IU #50,Heparin Sodium Gen-50,Anticoagulant,vial,Injection,5000 IU/ml,COLD_CHAIN,VITAL,120.0,200,1600,300,True

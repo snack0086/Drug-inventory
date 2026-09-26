@@ -1,0 +1,31 @@
+id,facility_code,name,facility_type,district,state,address,latitude,longitude,bed_capacity,current_bed_occupancy,is_active
+3ee58fbc-dd4d-4664-94e2-2e2e1d7f2de1,FAC-001,Solapur Medical Depot 1,CENTRAL_WAREHOUSE,Solapur,Maharashtra,"Cross Rd 4, Solapur",18.944759,75.533521,0,0,True
+c7a9dd13-87f4-463c-b2b9-621c5b778c49,FAC-002,Amravati Medical Depot 2,CENTRAL_WAREHOUSE,Amravati,Maharashtra,"Cross Rd 4, Amravati",17.81086,73.613507,0,0,True
+38f50c5b-9a42-4af1-b031-32babb5c47b5,FAC-003,Mumbai Medical Depot 3,REGIONAL_WAREHOUSE,Mumbai,Maharashtra,"Cross Rd 4, Mumbai",18.022212,75.891431,0,0,True
+24fe0dbe-455f-431e-9ccb-31c13ea1ee3e,FAC-004,Solapur Medical Depot 4,REGIONAL_WAREHOUSE,Solapur,Maharashtra,"Cross Rd 4, Solapur",20.123069,75.232488,0,0,True
+4bd7ab0d-7a82-4e3f-a689-9d5bb57f24af,FAC-005,Mumbai District Hospital 5,DISTRICT_HOSPITAL,Mumbai,Maharashtra,"Cross Rd 4, Mumbai",20.576989,75.350599,418,305,True
+deebacc1-8096-49c3-adbd-e050753ed64d,FAC-006,Thane District Hospital 6,DISTRICT_HOSPITAL,Thane,Maharashtra,"Cross Rd 4, Thane",20.046642,75.913818,542,395,True
+f4957732-1c15-480e-a95c-168c44e645f3,FAC-007,Pune District Hospital 7,DISTRICT_HOSPITAL,Pune,Maharashtra,"Cross Rd 4, Pune",18.130185,73.078913,379,289,True
+e400d1d0-c992-4b6e-b9e4-1978eb1c1d37,FAC-008,Solapur District Hospital 8,DISTRICT_HOSPITAL,Solapur,Maharashtra,"Cross Rd 4, Solapur",18.234949,74.723885,155,104,True
+3148a08c-9795-4ef7-b51a-d8a942e504f9,FAC-009,Nagpur District Hospital 9,DISTRICT_HOSPITAL,Nagpur,Maharashtra,"Cross Rd 4, Nagpur",19.392609,72.69267,575,396,True
+4412a3ea-7898-42e2-8fb3-7afd57d7d349,FAC-010,Nanded District Hospital 10,DISTRICT_HOSPITAL,Nanded,Maharashtra,"Cross Rd 4, Nanded",20.701175,74.977138,400,289,True
+5e3c8af4-67c2-4470-912a-ecb7bb53f406,FAC-011,Solapur District Hospital 11,DISTRICT_HOSPITAL,Solapur,Maharashtra,"Cross Rd 4, Solapur",18.542141,75.790292,391,314,True
+4ae98cc1-cb3c-4e5f-b6cd-1f83ea5d4c77,FAC-012,Thane District Hospital 12,DISTRICT_HOSPITAL,Thane,Maharashtra,"Cross Rd 4, Thane",19.002445,72.723823,536,451,True
+4efa322e-b7da-46a3-8997-0c5785d3443a,FAC-013,Aurangabad District Hospital 13,DISTRICT_HOSPITAL,Aurangabad,Maharashtra,"Cross Rd 4, Aurangabad",20.742068,74.002648,510,424,True
+3aa8a907-2778-4339-8b1f-5849cad16428,FAC-014,Pune District Hospital 14,DISTRICT_HOSPITAL,Pune,Maharashtra,"Cross Rd 4, Pune",17.377062,74.643173,413,303,True
+1a119cae-1a63-436a-b4b4-7221f0e23bb8,FAC-015,Mumbai District Hospital 15,DISTRICT_HOSPITAL,Mumbai,Maharashtra,"Cross Rd 4, Mumbai",17.147153,76.080293,174,154,True
+ba01ba31-4727-4fae-ad1e-216f0c07e61c,FAC-016,Nashik District Hospital 16,DISTRICT_HOSPITAL,Nashik,Maharashtra,"Cross Rd 4, Nashik",17.291509,75.324397,187,176,True
+d9232cfb-c4f1-4e59-8121-2970b4908912,FAC-017,Nanded District Hospital 17,DISTRICT_HOSPITAL,Nanded,Maharashtra,"Cross Rd 4, Nanded",20.224452,76.855957,228,183,True
+0395b295-1937-4d01-9a55-8c1628ca811e,FAC-018,Pune District Hospital 18,DISTRICT_HOSPITAL,Pune,Maharashtra,"Cross Rd 4, Pune",20.640205,76.002251,181,163,True
+52b26c2e-5540-42a1-a8c0-5f96b1a7df56,FAC-019,Amravati District Hospital 19,DISTRICT_HOSPITAL,Amravati,Maharashtra,"Cross Rd 4, Amravati",19.888396,73.698866,382,311,True
+5be0da05-9400-4be2-a7c4-424f68c6dee4,FAC-020,Nanded District Hospital 20,DISTRICT_HOSPITAL,Nanded,Maharashtra,"Cross Rd 4, Nanded",20.053548,76.696006,410,365,True
+9661edfb-44f7-44b7-8277-f3cf478fe4ff,FAC-021,Nashik Primary Health Center 21,PRIMARY_HEALTH_CENTER,Nashik,Maharashtra,"Cross Rd 4, Nashik",19.861941,72.957346,43,28,True
+8c9dd271-7fe2-4838-95b7-ecf6fb2d9d2c,FAC-022,Amravati Primary Health Center 22,PRIMARY_HEALTH_CENTER,Amravati,Maharashtra,"Cross Rd 4, Amravati",20.816942,76.870339,22,18,True
+b007baa1-37d0-435d-88a2-b603e821f4e1,FAC-023,Pune Primary Health Center 23,PRIMARY_HEALTH_CENTER,Pune,Maharashtra,"Cross Rd 4, Pune",18.159596,76.496713,41,26,True
+1dd19dd7-312d-48db-9235-3d33d6952c2e,FAC-024,Nanded Primary Health Center 24,PRIMARY_HEALTH_CENTER,Nanded,Maharashtra,"Cross Rd 4, Nanded",20.203556,75.395173,40,35,True
+a4b70abc-ae12-45f7-8dc3-49390eeb354e,FAC-025,Solapur Primary Health Center 25,PRIMARY_HEALTH_CENTER,Solapur,Maharashtra,"Cross Rd 4, Solapur",19.270215,75.079857,31,24,True
+daceb465-bb39-4f15-8e6d-00a26b0b331e,FAC-026,Kolhapur Primary Health Center 26,PRIMARY_HEALTH_CENTER,Kolhapur,Maharashtra,"Cross Rd 4, Kolhapur",18.450503,75.931575,44,37,True
+8424e662-7291-4919-8616-aacf78358fd3,FAC-027,Kolhapur Primary Health Center 27,PRIMARY_HEALTH_CENTER,Kolhapur,Maharashtra,"Cross Rd 4, Kolhapur",19.05353,75.363478,32,26,True
+6c62826c-5647-4a14-bc5c-84f2cdfde6ae,FAC-028,Pune Primary Health Center 28,PRIMARY_HEALTH_CENTER,Pune,Maharashtra,"Cross Rd 4, Pune",17.556758,73.62827,55,49,True
+dfa22e57-5b54-457b-80ec-8692ae3d76fb,FAC-029,Amravati Primary Health Center 29,PRIMARY_HEALTH_CENTER,Amravati,Maharashtra,"Cross Rd 4, Amravati",20.822718,76.764303,26,19,True
+65300365-fddf-4f82-9622-06ddc4c773d5,FAC-030,Amravati Primary Health Center 30,PRIMARY_HEALTH_CENTER,Amravati,Maharashtra,"Cross Rd 4, Amravati",20.490715,75.426608,24,18,True

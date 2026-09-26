@@ -1,0 +1,21 @@
+id,username,email,password_hash,full_name,role,assigned_facility_id,is_active
+b91d75ce-2961-4d7e-820d-9bb96302da38,admin,admin@health.gov.in,$2a$10$wT0l06u3bQvP1J4KzL8oie5U4iE2b3dZp8G5k9eR2K3x2t4w1o,Admin,ADMIN,,True
+8d42b028-6f8a-4a1f-8a62-bbf30bc71e39,officer_1,officer_1@health.gov.in,$2a$10$wT0l06u3bQvP1J4KzL8oie5U4iE2b3dZp8G5k9eR2K3x2t4w1o,Officer 1,GOV_OFFICER,,True
+49774b6c-1f1a-4e63-bf07-49ba9ab53b5f,officer_2,officer_2@health.gov.in,$2a$10$wT0l06u3bQvP1J4KzL8oie5U4iE2b3dZp8G5k9eR2K3x2t4w1o,Officer 2,GOV_OFFICER,,True
+ade0207f-7c7f-4b1b-a638-68c1efc5cc60,wh_mgr_1,wh_mgr_1@health.gov.in,$2a$10$wT0l06u3bQvP1J4KzL8oie5U4iE2b3dZp8G5k9eR2K3x2t4w1o,Wh Mgr 1,WAREHOUSE_MGR,c7a9dd13-87f4-463c-b2b9-621c5b778c49,True
+33b60ebd-c1c0-40e0-8c42-6fcce36c71f3,wh_mgr_2,wh_mgr_2@health.gov.in,$2a$10$wT0l06u3bQvP1J4KzL8oie5U4iE2b3dZp8G5k9eR2K3x2t4w1o,Wh Mgr 2,WAREHOUSE_MGR,38f50c5b-9a42-4af1-b031-32babb5c47b5,True
+7ce36743-76b4-4703-9717-a4a70b985f3b,wh_mgr_3,wh_mgr_3@health.gov.in,$2a$10$wT0l06u3bQvP1J4KzL8oie5U4iE2b3dZp8G5k9eR2K3x2t4w1o,Wh Mgr 3,WAREHOUSE_MGR,24fe0dbe-455f-431e-9ccb-31c13ea1ee3e,True
+2f1f6ba9-ea8f-464e-984a-2924fa1bd48d,wh_mgr_4,wh_mgr_4@health.gov.in,$2a$10$wT0l06u3bQvP1J4KzL8oie5U4iE2b3dZp8G5k9eR2K3x2t4w1o,Wh Mgr 4,WAREHOUSE_MGR,3ee58fbc-dd4d-4664-94e2-2e2e1d7f2de1,True
+0a2d2c14-afda-40f5-be30-ca59f8426541,wh_mgr_5,wh_mgr_5@health.gov.in,$2a$10$wT0l06u3bQvP1J4KzL8oie5U4iE2b3dZp8G5k9eR2K3x2t4w1o,Wh Mgr 5,WAREHOUSE_MGR,c7a9dd13-87f4-463c-b2b9-621c5b778c49,True
+997b5b43-14fd-4e64-b840-0137f9adce21,pharm_1,pharm_1@health.gov.in,$2a$10$wT0l06u3bQvP1J4KzL8oie5U4iE2b3dZp8G5k9eR2K3x2t4w1o,Pharm 1,PHARMACIST,deebacc1-8096-49c3-adbd-e050753ed64d,True
+df87f0fd-901b-48f4-b5b5-07964ecccd5d,pharm_2,pharm_2@health.gov.in,$2a$10$wT0l06u3bQvP1J4KzL8oie5U4iE2b3dZp8G5k9eR2K3x2t4w1o,Pharm 2,PHARMACIST,f4957732-1c15-480e-a95c-168c44e645f3,True
+aa608ce3-a046-4ec9-837e-9b342400c057,pharm_3,pharm_3@health.gov.in,$2a$10$wT0l06u3bQvP1J4KzL8oie5U4iE2b3dZp8G5k9eR2K3x2t4w1o,Pharm 3,PHARMACIST,e400d1d0-c992-4b6e-b9e4-1978eb1c1d37,True
+f250a71c-deed-4eba-9f2f-91439622edf1,pharm_4,pharm_4@health.gov.in,$2a$10$wT0l06u3bQvP1J4KzL8oie5U4iE2b3dZp8G5k9eR2K3x2t4w1o,Pharm 4,PHARMACIST,3148a08c-9795-4ef7-b51a-d8a942e504f9,True
+775e7cfa-1c5d-47f6-a193-28f448723de7,pharm_5,pharm_5@health.gov.in,$2a$10$wT0l06u3bQvP1J4KzL8oie5U4iE2b3dZp8G5k9eR2K3x2t4w1o,Pharm 5,PHARMACIST,4412a3ea-7898-42e2-8fb3-7afd57d7d349,True
+e4632565-a561-4a69-82ca-23cda1f65b93,pharm_6,pharm_6@health.gov.in,$2a$10$wT0l06u3bQvP1J4KzL8oie5U4iE2b3dZp8G5k9eR2K3x2t4w1o,Pharm 6,PHARMACIST,5e3c8af4-67c2-4470-912a-ecb7bb53f406,True
+a9359dd5-a792-4325-bb24-bebdb8a1000c,pharm_7,pharm_7@health.gov.in,$2a$10$wT0l06u3bQvP1J4KzL8oie5U4iE2b3dZp8G5k9eR2K3x2t4w1o,Pharm 7,PHARMACIST,4ae98cc1-cb3c-4e5f-b6cd-1f83ea5d4c77,True
+65802fa8-04ba-429f-b2ff-cc91759fe4af,pharm_8,pharm_8@health.gov.in,$2a$10$wT0l06u3bQvP1J4KzL8oie5U4iE2b3dZp8G5k9eR2K3x2t4w1o,Pharm 8,PHARMACIST,4efa322e-b7da-46a3-8997-0c5785d3443a,True
+52d2df1e-68a6-4e24-8e30-dd17df42544e,pharm_9,pharm_9@health.gov.in,$2a$10$wT0l06u3bQvP1J4KzL8oie5U4iE2b3dZp8G5k9eR2K3x2t4w1o,Pharm 9,PHARMACIST,3aa8a907-2778-4339-8b1f-5849cad16428,True
+515d6c1c-1d96-4a8e-9d18-532a93830578,pharm_10,pharm_10@health.gov.in,$2a$10$wT0l06u3bQvP1J4KzL8oie5U4iE2b3dZp8G5k9eR2K3x2t4w1o,Pharm 10,PHARMACIST,1a119cae-1a63-436a-b4b4-7221f0e23bb8,True
+7586f1a3-2dbc-44dc-964f-9a04b19fe763,pharm_11,pharm_11@health.gov.in,$2a$10$wT0l06u3bQvP1J4KzL8oie5U4iE2b3dZp8G5k9eR2K3x2t4w1o,Pharm 11,PHARMACIST,ba01ba31-4727-4fae-ad1e-216f0c07e61c,True
+eda337f7-7ed6-4ac6-805f-1f9be2d68b2b,pharm_12,pharm_12@health.gov.in,$2a$10$wT0l06u3bQvP1J4KzL8oie5U4iE2b3dZp8G5k9eR2K3x2t4w1o,Pharm 12,PHARMACIST,d9232cfb-c4f1-4e59-8121-2970b4908912,True
